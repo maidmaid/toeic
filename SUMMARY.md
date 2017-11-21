@@ -6,7 +6,7 @@
 ---
 
 - [Basis](basis.md)
-- [Simple, Compound and Complex sentences](simple_compound_complex.md)
+- [Simple, Compound and Complex sentences](simple_compound_complex_sentences.md)
 - [Adverbs](adverbs.md)
 - [Flat adverbs](flat_adverbs.md)
 - [Verb transitivity](verb_transitivity.md)
@@ -14,3 +14,4 @@
 - [Moods](moods.md)
 - [Complements](complements.md)
 - [Adjective clauses](adjective_clauses.md)
+- [Participle phrases](participle_phrases.md)
