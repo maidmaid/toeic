@@ -17,3 +17,4 @@
 - [Participle phrases](participle_phrases.md)
 - [Transitions](transitions.md)
 - [Active/Passive](active_passive.md)
+- [Adjectives](adjectives.md)
