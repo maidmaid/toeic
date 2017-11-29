@@ -32,7 +32,7 @@ Everything in English always comes back to SVO.
 - **Past simple**: S + (Verb in the past) + O
   - What `did` you eat, yesterday? (Question or interrogative)
   - I `ate` a pizza yesterday. (SImple tense easily takes time)
-  - I `was` late for shool this morning.
+  - I `was` late for school this morning.
 - **Past continuous**: S + (be verb was or were) + V ing + O
   - What `were` you `doing` yesterday?
   - I `was eating` a pizza _when_ a man approached me.
@@ -43,7 +43,7 @@ Everything in English always comes back to SVO.
   - I `had` just `finished` teaching my class _when_ the earthquake began.
   - The pizza `had been eaten` by me. (Passive voice)
   - He `had finished` his homework _before_ he went to school.
-  - He `had finished` this homeword _before_ `going` to school. (Before is now a preposition which requires a noun or gerung)
+  - He `had finished` this homework _before_ `going` to school. (Before is now a preposition which requires a noun or gerung)
 - **Past perfect continuous**: S (had been + V ing) + O (Long action)
   - I `had been eating` a pizza _when_ I got the phone call.
   - I `had been visiting` his grandmother _when_ his grandfather walked int the door.
@@ -62,8 +62,8 @@ Everything in English always comes back to SVO.
 - **Present perfect**: Subject + have/has + Past Participle + Object (Usually a completed action)
   - Mr McDougle `has taught` English for 20 years.
 - **Present perfect continuous**: Subject + have/has + Present Participle + Object (Started in the past and keeps going)
-  - I have been studying Science for 10 years now but I would like to kkep going.
-  - You have been messing around with that computer for 3 hours now!
+  - I `have been studying` Science for 10 years now but I would like to keep going.
+  - You `have been messing` around with that computer for 3 hours now!
 
 ### futures
 
