@@ -18,4 +18,4 @@
 - [Transitions](transitions.md)
 - [Active/Passive](active_passive.md)
 - [Adjectives](adjectives.md)
-- [tenses.md](tenses.md)
+- [Tenses](tenses.md)
