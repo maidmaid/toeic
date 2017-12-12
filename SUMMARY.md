@@ -24,3 +24,4 @@
 - [Ergative verbs](ergative_verbs.md)
 - [Gerungs infinitives](gerungs_infinitives.md)
 - [Inversion](inversion.md)
+- [Noun clauses](noun_clauses.md)

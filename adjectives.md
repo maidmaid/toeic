@@ -19,11 +19,11 @@ Syllables sound out the words.
 
 Rules:
 
-1. Irregular adjectives chage the word with comparative and superlatives.
+1. Irregular adjectives change the word with comparative and superlatives.
 2. Regular adjectives depend on how many syllables they have.
    - a) syllable adjectives generally add `er` or `est`.
    - a) generally 1 syllable adjectives that end in a consonant double the last consonant before adding the `er` or `est`.
-   - b) 2 syllables adjectives that end in `y` change the `y` ti `i` before `er` or `est`.
+   - b) 2 syllables adjectives that end in `y` change the `y` to `i` before `er` or `est`.
 3. Some adjectives break the rule.
 
 Example 1:
