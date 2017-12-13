@@ -22,6 +22,7 @@
 - [Causative verbs](causative_verbs.md)
 - [Conditional sentences](conditional_sentences.md)
 - [Ergative verbs](ergative_verbs.md)
-- [Gerungs infinitives](gerungs_infinitives.md)
+- [Gerunds infinitives](gerungs_infinitives.md)
 - [Inversion](inversion.md)
 - [Noun clauses](noun_clauses.md)
+- [Adverbs placement](adverb_placement.md)
